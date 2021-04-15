@@ -18,18 +18,8 @@ title: Publications
 
    **Guy Amir**, Ayala Prusalk, Tal Reiss, Nir Zabari and Dror Feitelson
 
-   _Proc. 8th International Workshop on Software Engineering Research and Industrial Prac-
-   tice (SER & IP)_; June 2021
+   _Proc. 8th International Workshop on Software Engineering Research and Industrial 
+   Practice (SER & IP)_; June 2021
    [PDF](https://arxiv.org/pdf/2103.13198.pdf)
 
 
-
-
-
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
