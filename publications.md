@@ -5,6 +5,7 @@ title: Publications
 
 
 - **An SMT-Based Apprach for Verifying Binarized Neural Networks**
+
 **Guy Amir**, Haoze Wu, Clark Barrett and Guy Katz
 _Proc. 27th Int. Conf. on Tools and Algorithms for the Construction and Analysis of
 Systems (TACAS)_; Luxembourg, Luxembourg, April 2021
