@@ -2,6 +2,12 @@
 layout: page
 title: Publications
 ---
+-  **Towards Scalable Verification of RL-Driven Systems**
+
+   **Guy Amir**, Michael Schapira and Guy Katz
+
+   _Currently Under Review_
+
 
 
 -  **An SMT-Based Apprach for Verifying Binarized Neural Networks**
@@ -22,7 +28,7 @@ title: Publications
 
    **Guy Amir**, Ayala Prusalk, Tal Reiss, Nir Zabari and Dror Feitelson
 
-   _Proc. 8th International Workshop on Software Engineering Research and Industrial 
+   _Proc. 8th Int. Workshop on Software Engineering Research and Industrial 
    Practice (SER & IP)_; 
    June 2021
    [[PDF]](https://arxiv.org/pdf/2103.13198.pdf)
