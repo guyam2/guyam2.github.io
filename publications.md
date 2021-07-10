@@ -7,7 +7,7 @@ title: Publications
    **Guy Amir**, Michael Schapira and Guy Katz
  
    To Appear <br>
-   _Proc. 21st Int. Conf. on Formal Methods in Computer-Aided Design (FMCAD)_; <br>
+   _Proc. 21st Int. Conf. on Formal Methods in Computer-Aided Design (FMCAD)_ <br>
    Yale University, Connecticut, USA <br>
    October 2021 <br>
    
@@ -20,7 +20,7 @@ title: Publications
    **Guy Amir**, Haoze Wu, Clark Barrett and Guy Katz
 
    _Proc. 27th Int. Conf. on Tools and Algorithms for the Construction and Analysis of
-   Systems (TACAS)_;<br>
+   Systems (TACAS)_ <br>
    Luxembourg, Luxembourg <br>
    April 2021 <br>
    
@@ -35,7 +35,7 @@ title: Publications
    **Guy Amir**, Ayala Prusalk, Tal Reiss, Nir Zabari and Dror Feitelson
 
    _Proc. 8th Int. Workshop on Software Engineering Research and Industrial 
-   Practice (SER & IP)_; <br>
+   Practice (SER & IP)_ <br>
    Virtual Event <br>
    June 2021 <br>
    
