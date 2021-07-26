@@ -2,13 +2,13 @@
 layout: page
 title: Publications
 ---
--  **Towards Scalable Verification of RL-Driven Systems**
+-  **Towards Scalable Verification of Deep Reinforcement Learning**
 
    **Guy Amir**, Michael Schapira and Guy Katz
  
    To appear in: <br>
    _Proc. 21st Int. Conf. on Formal Methods in Computer-Aided Design (FMCAD);_ <br>
-   Yale University, Connecticut, USA, 
+   New Haven, Connecticut, USA, 
    October 2021 <br>
    
    [[PDF]](https://arxiv.org/pdf/2105.11931)
