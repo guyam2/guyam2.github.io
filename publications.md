@@ -16,7 +16,7 @@ title: Publications
 
 
 
--  **An SMT-Based Apprach for Verifying Binarized Neural Networks**
+-  **An SMT-Based Approach for Verifying Binarized Neural Networks**
 
    **Guy Amir**, Haoze Wu, Clark Barrett and Guy Katz
 
