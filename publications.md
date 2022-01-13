@@ -34,7 +34,7 @@ title: Publications
 
 -  **Use and Perceptions of Multi-Monitor Workstations: A Natural Experiment**
 
-   **Guy Amir**, Ayala Prusalk, Tal Reiss, Nir Zabari and Dror Feitelson
+   **Guy Amir**, Ayala Prusak, Tal Reiss, Nir Zabari and Dror Feitelson
 
    _Proc. 8th Int. Workshop on Software Engineering Research and Industrial 
    Practice (SER & IP), pp. 29-36;_ 
