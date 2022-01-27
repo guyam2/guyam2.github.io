@@ -2,6 +2,21 @@
 layout: page
 title: Publications
 ---
+-  **Scenario-Assisted Deep Reinforcement Learning**
+   
+	Raz Yerushalmi, **Guy Amir**, Achiya Elyasaf, David Harel, Guy 
+	Katz and Assaf Marron
+	
+   _Proc. 10th Int. Conf. on Model-Driven Engineering and Software Development (MODELSWARD), pp. 310-319;_ 
+   <br>
+   Virtual Event, 
+   February 2022 <br>
+   
+   [[PDF]](https://www.katz-lab.com/_files/ugd/e8497d_fce1c21cebb743959e1003c6c41eaab8.pdf)
+
+
+
+
 -  **Towards Scalable Verification of Deep Reinforcement Learning**
 
    **Guy Amir**, Michael Schapira and Guy Katz
