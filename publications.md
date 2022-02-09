@@ -4,6 +4,7 @@ title: Publications
 ---
 
 -  **Verification-Aided Deep Ensemble Selection**
+	
 	**Guy Amir**, Guy Katz and Michael Schapira
 	<br>
 	Arxiv Technical Report, 
