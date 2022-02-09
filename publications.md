@@ -2,6 +2,16 @@
 layout: page
 title: Publications
 ---
+
+-  **Verification-Aided Deep Ensemble Selection**
+	**Guy Amir**, Guy Katz and Michael Schapira
+	<br>
+	Arxiv Technical Report, 
+	February 2022 <br>
+	
+	[[Arxiv]](https://arxiv.org/abs/2202.03898)
+	
+
 -  **Scenario-Assisted Deep Reinforcement Learning**
    
 	Raz Yerushalmi, **Guy Amir**, Achiya Elyasaf, David Harel, Guy 
