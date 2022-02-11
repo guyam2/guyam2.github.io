@@ -7,8 +7,7 @@ title: Publications
 	
 	**Guy Amir**, Guy Katz and Michael Schapira
 	
-	<br>
-	Arxiv Technical Report, 
+	<br> Arxiv Technical Report, 
 	February 2022 <br>
 	
 	[[Arxiv]](https://arxiv.org/abs/2202.03898)
