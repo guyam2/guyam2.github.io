@@ -3,6 +3,17 @@ layout: page
 title: Publications
 ---
 
+**Neural Network Robustness as a Verification Property: A Principled Case Study**
+
+	Marco Casadio, Ekaterina Komendantskaya, Mathew Daggitt, Wen Kokke, Guy Katz, **Guy Amir** and Idan Refaeli
+
+	_Proc. 34th Int. Conf. on Computer Aided Verification (CAV)
+	<br> Haifa, Israel, 
+	August 2022 <br>
+
+	​To appear
+
+
 -  **Verification-Aided Deep Ensemble Selection**
 	
 	**Guy Amir**, Guy Katz and Michael Schapira
