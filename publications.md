@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-**Neural Network Robustness as a Verification Property: A Principled Case Study**
+-	**Neural Network Robustness as a Verification Property: A Principled Case Study**
 
 	Marco Casadio, Ekaterina Komendantskaya, Mathew Daggitt, Wen Kokke, Guy Katz, **Guy Amir** and Idan Refaeli
 
