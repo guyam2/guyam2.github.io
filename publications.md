@@ -7,7 +7,7 @@ title: Publications
 
 	Marco Casadio, Ekaterina Komendantskaya, Mathew Daggitt, Wen Kokke, Guy Katz, **Guy Amir** and Idan Refaeli
 
-	_Proc. 34th Int. Conf. on Computer Aided Verification (CAV);_
+	_Proc. 34th Int. Conf. on Computer Aided Verification (CAV)_
 	<br> Haifa, Israel, 
 	August 2022 <br>
 
