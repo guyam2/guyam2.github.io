@@ -106,19 +106,3 @@ title: Publications
    [[PDF]](https://arxiv.org/pdf/2103.13198.pdf)
 
 
-
-<p><strong>Preference-Informed Fairness</strong><br />
-Michael P. Kim, Aleksandra Korolova, Guy N. Rothblum and Gal Yona <br />
-<em>Innovations in Theoretical Computer Science (ITCS) 2020</em> <br />
-<a href="https://arxiv.org/abs/1904.01793" target="_blank">[paper]</a>
-<a href="https://www.youtube.com/watch?v=zAR5VbkhKv4" target="_blank">[talk]</a></p>
-
-<p><strong>Evidence-Based Rankings</strong><br />
-Cynthia Dwork, Michael P. Kim, Omer Reingold, Guy N. Rothblum and Gal Yona<br />
-<em>Foundations of Computer Science (FOCS) 2019</em> <br />
-<a href="https://conferences.computer.org/focs/2019/pdfs/FOCS2019-7pBwCpNH4Mz2L4MJWVl6Xp/7lI4PfneZ4L79yuaxYxVwe/6pWBsKP4Y961KSgnZ1Ykxt.pdf" target="_blank">[paper]</a></p>
-
-<p><strong>Probably Approximately Metric Fair Learning</strong><br />
-Guy N. Rothblum and Gal Yona<br />
-<em>International Conference on Machine Learning (ICML) 2018</em>  <br />
-<a href="https://arxiv.org/abs/1803.03242" target="_blank">[paper]</a> <a href="https://vimeo.com/287766217" target="_blank">[talk]</a></p>
