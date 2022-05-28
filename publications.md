@@ -3,6 +3,26 @@ layout: page
 title: Publications
 ---
 
+
+
+-  **Verifying Learning-Based Robotic Navigation Systems**
+	
+	**Guy Amir**, Davide Corsi, Raz Yerushalmi, Luca Marzari, David Harel, Alessandro Farinelli and Guy Katz
+	<br> 
+	Arxiv Technical Report, 
+	May 2022 <br>
+	
+	[[Arxiv]](https://arxiv.org/abs/2205.13536) 
+
+-  **Enhancing Deep Reinforcement Learning with Scenario-Based Modeling**
+	
+	Raz Yerushalmi, **Guy Amir**, Achiya Elyasaf, David Harel, Guy 
+	Katz and Assaf Marron
+	<br> 
+	Under Review, 
+	<br>
+
+
 -	**Neural Network Robustness as a Verification Property: A Principled Case Study**
 
 	Marco Casadio, Ekaterina Komendantskaya, Mathew Daggitt, Wen Kokke, Guy Katz, **Guy Amir** and Idan Refaeli
@@ -18,7 +38,6 @@ title: Publications
 -  **Verification-Aided Deep Ensemble Selection**
 	
 	**Guy Amir**, Guy Katz and Michael Schapira
-	
 	<br> 
 	Arxiv Technical Report, 
 	February 2022 <br>
