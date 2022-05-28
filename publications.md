@@ -8,6 +8,7 @@ title: Publications
 -  **Verifying Learning-Based Robotic Navigation Systems**
 	
 	**Guy Amir**, Davide Corsi, Raz Yerushalmi, Luca Marzari, David Harel, Alessandro Farinelli and Guy Katz
+	
 	<br> 
 	Arxiv Technical Report, 
 	May 2022 <br>
@@ -18,9 +19,10 @@ title: Publications
 	
 	Raz Yerushalmi, **Guy Amir**, Achiya Elyasaf, David Harel, Guy 
 	Katz and Assaf Marron
+	
 	<br> 
 	Under Review, 
-	<br>
+	May 2022 <br>
 
 
 -	**Neural Network Robustness as a Verification Property: A Principled Case Study**
