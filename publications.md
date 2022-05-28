@@ -40,6 +40,7 @@ title: Publications
 -  **Verification-Aided Deep Ensemble Selection**
 	
 	**Guy Amir**, Guy Katz and Michael Schapira
+	
 	<br> 
 	Arxiv Technical Report, 
 	February 2022 <br>
