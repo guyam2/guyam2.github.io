@@ -93,16 +93,7 @@ title: Publications
 
 
 
--  **Use and Perceptions of Multi-Monitor Workstations: A Natural Experiment**
-
-   **Guy Amir**, Ayala Prusak, Tal Reiss, Nir Zabari and Dror Feitelson
-
-   _Proc. 8th Int. Workshop on Software Engineering Research and Industrial 
-   Practice (SER & IP), pp. 29-36;_ 
-   <br>
-   Madrid, Spain,
-   June 2021 <br>
-   
-   [[PDF]](https://arxiv.org/pdf/2103.13198.pdf)
-
-
+<p><strong>Use and Perceptions of Multi-Monitor Workstations: A Natural Experiment</strong><br />
+**Guy Amir**, Ayala Prusak, Tal Reiss, Nir Zabari and Dror Feitelson<br />
+<em>Workshop on Software Engineering Research and Industrial Practice (SER & IP) 2021</em>  <br />
+<a href="https://arxiv.org/pdf/2103.13198.pdf" target="_blank">[paper]</a> </p>
