@@ -13,7 +13,7 @@ title: Publications
 
 
 <p><strong>Verification-Aided Deep Ensemble Selection</strong><br />
-<strong>Guy Amir</strong>,Tom Zelazny, Guy Katz and Michael Schapira<br />
+<strong>Guy Amir</strong>, Tom Zelazny, Guy Katz and Michael Schapira<br />
 <em>preprint 2022</em>  <br />
 <a href="https://arxiv.org/abs/2202.03898" target="_blank">[paper]</a> <a href="https://zenodo.org/record/6557083#.YpPYnKhBxPY" target="_blank">[code]</a></p>
 
