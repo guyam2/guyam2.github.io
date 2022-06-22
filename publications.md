@@ -3,6 +3,11 @@ layout: page
 title: Publications
 ---
 
+<p><strong>Constrained Reinforcement Learning for Robotics via Scenario-Based Programming</strong><br />
+Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, David Harel, Guy Katz<br />
+<em>preprint 2022</em>  <br />
+<a href="https://arxiv.org/abs/2206.09603" target="_blank">[paper]</a> </p>
+
 
 
 <p><strong>Verifying Learning-Based Robotic Navigation Systems</strong><br />
