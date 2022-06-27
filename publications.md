@@ -30,6 +30,11 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 <a href="" target="_blank">[paper - to appear]</a> </p>
 
 
+<p><strong>Dominant Toxin Hypothesis: Unravelling the Venom Phenotype Across Micro and Macroevolution</strong><br />
+Edward G. Smith, Joachim M. Surm, Jason Macrander, Adi Simhi*, <strong>Guy Amir*</strong>, Maria Y. Sachkova, Magda Lewandowska, Adam M. Reitzel and Yehu Moran
+<em>preprint 2022</em>  <br />
+<a href="https://www.biorxiv.org/content/10.1101/2022.06.22.497252v1" target="_blank">[paper]</a> </p>
+
 
 <p><strong>Neural Network Robustness as a Verification Property: A Principled Case Study</strong><br />
 Marco Casadio, Ekaterina Komendantskaya, Mathew Daggitt, Wen Kokke, Guy Katz, <strong>Guy Amir</strong>, and Idan Refaeli<br />
