@@ -24,7 +24,7 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 
 
 <p><strong>Dominant Toxin Hypothesis: Unravelling the Venom Phenotype Across Micro and Macroevolution</strong><br />
-Edward G. Smith, Joachim M. Surm, Jason Macrander, Adi Simhi*, <strong>Guy Amir*</strong>, Maria Y. Sachkova, Magda Lewandowska, Adam M. Reitzel and Yehu Moran
+Edward G. Smith, Joachim M. Surm, Jason Macrander, Adi Simhi*, <strong>Guy Amir*</strong>, Maria Y. Sachkova, Magda Lewandowska, Adam M. Reitzel and Yehu Moran<br />
 <em>preprint 2022</em>  <br />
 <a href="https://www.biorxiv.org/content/10.1101/2022.06.22.497252v1" target="_blank">[paper]</a> </p>
 
