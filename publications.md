@@ -17,13 +17,6 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 
 
 
-<p><strong>Verification-Aided Deep Ensemble Selection</strong><br />
-<strong>Guy Amir</strong>, Tom Zelazny, Guy Katz and Michael Schapira<br />
-<em>preprint 2022</em>  <br />
-<a href="https://arxiv.org/abs/2202.03898" target="_blank">[paper]</a> <a href="https://zenodo.org/record/6557083#.YpPYnKhBxPY" target="_blank">[code]</a></p>
-
-
-
 <p><strong>Enhancing Deep Reinforcement Learning with Scenario-Based Modeling</strong><br />
 Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz and Assaf Marron<br />
 <em>preprint 2022</em>  <br />
@@ -34,6 +27,13 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 Edward G. Smith, Joachim M. Surm, Jason Macrander, Adi Simhi*, <strong>Guy Amir*</strong>, Maria Y. Sachkova, Magda Lewandowska, Adam M. Reitzel and Yehu Moran
 <em>preprint 2022</em>  <br />
 <a href="https://www.biorxiv.org/content/10.1101/2022.06.22.497252v1" target="_blank">[paper]</a> </p>
+
+
+<p><strong>Verification-Aided Deep Ensemble Selection</strong><br />
+<strong>Guy Amir</strong>, Tom Zelazny, Guy Katz and Michael Schapira<br />
+<em>Formal Methods in Computer-Aided Design (FMCAD) 2022</em>  <br />
+<a href="https://arxiv.org/abs/2202.03898" target="_blank">[paper]</a> <a href="https://zenodo.org/record/6557083#.YpPYnKhBxPY" target="_blank">[code]</a></p>
+
 
 
 <p><strong>Neural Network Robustness as a Verification Property: A Principled Case Study</strong><br />
