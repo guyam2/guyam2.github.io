@@ -39,7 +39,7 @@ Edward G. Smith, Joachim M. Surm, Jason Macrander, Adi Simhi*, <strong>Guy Amir*
 <p><strong>Neural Network Robustness as a Verification Property: A Principled Case Study</strong><br />
 Marco Casadio, Ekaterina Komendantskaya, Mathew Daggitt, Wen Kokke, Guy Katz, <strong>Guy Amir</strong>, and Idan Refaeli<br />
 <em>Computer Aided Verification (CAV) 2022</em>  <br />
-<a href="" target="_blank">[paper - to appear]</a> <a href="https://github.com/aisec-private/training-with-constraints" target="_blank">[code]</a></p>
+<a href="https://arxiv.org/abs/2104.01396" target="_blank">[paper]</a> <a href="https://github.com/aisec-private/training-with-constraints" target="_blank">[code]</a></p>
 
 
 
