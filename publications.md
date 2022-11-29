@@ -5,21 +5,27 @@ title: Publications
 
 <p><strong>Constrained Reinforcement Learning for Robotics via Scenario-Based Programming</strong><br />
 Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, David Harel, Guy Katz<br />
-<em>preprint 2022</em>  <br />
+<em>preprint, 2023</em>  <br />
 <a href="https://arxiv.org/abs/2206.09603" target="_blank">[paper]</a> </p>
 
 
 
 <p><strong>Verifying Learning-Based Robotic Navigation Systems</strong><br />
 <strong>Guy Amir</strong>, Davide Corsi, Raz Yerushalmi, Luca Marzari, David Harel, Alessandro Farinelli and Guy Katz<br />
-<em>preprint 2022</em>  <br />
+<em>preprint, 2023</em>  <br />
 <a href="https://arxiv.org/abs/2205.13536" target="_blank">[paper]</a> <a href="https://zenodo.org/record/6561336#.YpPZD6hBxPY" target="_blank">[code]</a> <a href="https://www.youtube.com/watch?v=RVmZblzEJbw&ab_channel=RoboticsSafety" target="_blank">[supplementary video]</a></p> 
 
 
 
 <p><strong>Enhancing Deep Reinforcement Learning with Scenario-Based Modeling</strong><br />
 Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz and Assaf Marron<br />
-<em>preprint 2022</em>  <br />
+<em>preprint, 2023</em>  <br />
+<a href="" target="_blank">[paper - to appear]</a> </p>
+
+
+<p><strong>veriFIRE: Verifying an Industrial, Learning-Based Wildfire Detection System</strong><br />
+<strong>Guy Amir</strong>, Ziv Freund, Guy Katz, Elad Mandelbaum and Idan Refaeli<br />
+<em>Formal Methods (FM), 2022</em>  <br />
 <a href="" target="_blank">[paper - to appear]</a> </p>
 
 
