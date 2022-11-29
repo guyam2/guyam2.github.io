@@ -25,7 +25,7 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 
 <p><strong>veriFIRE: Verifying an Industrial, Learning-Based Wildfire Detection System</strong><br />
 <strong>Guy Amir</strong>, Ziv Freund, Guy Katz, Elad Mandelbaum and Idan Refaeli<br />
-<em>Formal Methods (FM), 2022</em>  <br />
+<em>Formal Methods (FM), 2023</em>  <br />
 <a href="" target="_blank">[paper - to appear]</a> </p>
 
 
