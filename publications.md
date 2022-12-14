@@ -74,3 +74,11 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 <strong>Guy Amir</strong>, Ayala Prusak, Tal Reiss, Nir Zabari and Dror Feitelson<br />
 <em>Software Engineering Research and Industrial Practice (SER & IP), 2021</em>  <br />
 <a href="https://arxiv.org/pdf/2103.13198.pdf" target="_blank">[paper]</a> </p>
+
+
+---
+layout: page
+title: Patents
+---
+
+bla
