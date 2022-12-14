@@ -76,9 +76,15 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 <a href="https://arxiv.org/pdf/2103.13198.pdf" target="_blank">[paper]</a> </p>
 
 
----
-layout: page
-title: Patents
----
 
-bla
+<p><strong>Training Quantization-Aware AMAC Computing</strong><br />
+<strong>Guy Amir</strong>, Doug Burger, Gilad Kirshenboim, Yehonathan Refael, Ran Sahar - with Microsoft R&D<br />
+<em>Provisional Patent Pending, 2021</em>
+
+
+
+<p><strong>Diffusion-Based Handedness Classification for Touch-Based Input</strong><br />
+<strong>Guy Amir</strong>, Adam Hakim, Aviv Slobodkin - with Microsoft R&D<br />
+<em>Provisional Patent Pending, 2021</em>
+
+
