@@ -20,7 +20,7 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 <p><strong>Enhancing Deep Reinforcement Learning with Scenario-Based Modeling</strong><br />
 Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz and Assaf Marron<br />
 <em>Springer Nature Computer Science (SNCS), 2023</em>  <br />
-<a href="" target="_blank">[paper - to appear]</a> </p>
+<a href="https://guyam2.github.io/papers/SNCS_D_22_01098_Enhancing_Deep_Reinforcement_Learning_with_Scenario_Based_Modeling.pdf" target="_blank">[paper]</a> </p>
 
 
 <p><strong>veriFIRE: Verifying an Industrial, Learning-Based Wildfire Detection System</strong><br />
