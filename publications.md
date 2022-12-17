@@ -19,7 +19,7 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 
 <p><strong>Enhancing Deep Reinforcement Learning with Scenario-Based Modeling</strong><br />
 Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz and Assaf Marron<br />
-<em>preprint, 2023</em>  <br />
+<em>Spring Nature Computer Science (SNCS), 2023</em>  <br />
 <a href="" target="_blank">[paper - to appear]</a> </p>
 
 
