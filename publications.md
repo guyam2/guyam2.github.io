@@ -12,7 +12,7 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 
 <p><strong>Verifying Learning-Based Robotic Navigation Systems</strong><br />
 <strong>Guy Amir</strong>, Davide Corsi, Raz Yerushalmi, Luca Marzari, David Harel, Alessandro Farinelli and Guy Katz<br />
-<em>preprint, 2023</em>  <br />
+<em>Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2023</em>  <br />
 <a href="https://arxiv.org/abs/2205.13536" target="_blank">[paper]</a> <a href="https://zenodo.org/record/6561336#.YpPZD6hBxPY" target="_blank">[code]</a> <a href="https://www.youtube.com/watch?v=RVmZblzEJbw&ab_channel=RoboticsSafety" target="_blank">[supplementary video]</a></p> 
 
 
