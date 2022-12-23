@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-<h1 style="color:blue;"> <b> Manuscripts </b> </h1>
+<h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
 <p><strong>Constrained Reinforcement Learning for Robotics via Scenario-Based Programming</strong><br />
 Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, David Harel, Guy Katz<br />
