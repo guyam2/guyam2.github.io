@@ -11,7 +11,7 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 <a href="https://arxiv.org/abs/2206.09603" target="_blank">[paper]</a> </p>
 
 
-<h1> <b> Publications </b> </h1>
+<h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
 <p><strong>Verifying Learning-Based Robotic Navigation Systems</strong><br />
 <strong>Guy Amir</strong>, Davide Corsi, Raz Yerushalmi, Luca Marzari, David Harel, Alessandro Farinelli and Guy Katz<br />
@@ -78,7 +78,7 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 <em>Software Engineering Research and Industrial Practice (SER & IP), 2021</em>  <br />
 <a href="https://arxiv.org/pdf/2103.13198.pdf" target="_blank">[paper]</a> </p>
 
-<h1> <b> Patents </b> </h1>
+<h1 style="color:#4646D1"> <b> Patents </b> </h1>
 
 <p><strong>Training Quantization-Aware AMAC Computing</strong><br />
 <strong>Guy Amir</strong>, Doug Burger, Gilad Kirshenboim, Yehonathan Refael, Ran Sahar<br />
