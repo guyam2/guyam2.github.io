@@ -32,10 +32,10 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 <a href="https://arxiv.org/abs/2212.03287" target="_blank">[paper]</a> </p>
 
 
-<p><strong>Dominant Toxin Hypothesis: Unravelling the Venom Phenotype Across Micro and Macroevolution</strong><br />
+<p><strong>Micro and Macroevolution of Sea Anemone Venom Phenotype</strong><br />
 Edward G. Smith, Joachim M. Surm, Jason Macrander, Adi Simhi*, <strong>Guy Amir*</strong>, Maria Y. Sachkova, Magda Lewandowska, Adam M. Reitzel and Yehu Moran<br />
-<em>Nature Communications, 2022</em>  <br />
-<a href="https://www.biorxiv.org/content/10.1101/2022.06.22.497252v1" target="_blank">[paper]</a> </p>
+<em>Nature Communications, 2023</em>  <br />
+<a href="https://www.nature.com/articles/s41467-023-35794-9" target="_blank">[paper]</a> </p>
 
 
 <p><strong>Verification-Aided Deep Ensemble Selection</strong><br />
@@ -46,7 +46,7 @@ Edward G. Smith, Joachim M. Surm, Jason Macrander, Adi Simhi*, <strong>Guy Amir*
 
 
 <p><strong>Neural Network Robustness as a Verification Property: A Principled Case Study</strong><br />
-Marco Casadio, Ekaterina Komendantskaya, Mathew Daggitt, Wen Kokke, Guy Katz, <strong>Guy Amir</strong>, and Idan Refaeli<br />
+Marco Casadio, Ekaterina Komendantskaya, Mathew Daggitt, Wen Kokke, Guy Katz, <strong>Guy Amir</strong> and Idan Refaeli<br />
 <em>Computer Aided Verification (CAV), 2022</em>  <br />
 <a href="https://arxiv.org/abs/2104.01396" target="_blank">[paper]</a> <a href="https://github.com/aisec-private/training-with-constraints" target="_blank">[code]</a></p>
 
