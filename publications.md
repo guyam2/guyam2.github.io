@@ -5,6 +5,12 @@ title: Publications
 
 <h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
+<p><strong>Verifying Generalization in Machine Learning</strong><br />
+<strong>Guy Amir</strong>, Osher Maayan, Tom Zelazny, Guy Katz and Michael Schapira<br />
+<em>preprint, 2023</em>  <br />
+		
+
+
 <p><strong>Constrained Reinforcement Learning for Robotics via Scenario-Based Programming</strong><br />
 Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, David Harel, Guy Katz<br />
 <em>preprint, 2023</em>  <br />
@@ -33,7 +39,7 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 
 
 <p><strong>Micro and Macroevolution of Sea Anemone Venom Phenotype</strong><br />
-Edward G. Smith, Joachim M. Surm, Jason Macrander, Adi Simhi*, <strong>Guy Amir*</strong>, Maria Y. Sachkova, Magda Lewandowska, Adam M. Reitzel and Yehu Moran<br />
+Edward G. Smith, Joachim M. Surm, Jason Macrander, Adi Simhi, <strong>Guy Amir</strong>, Maria Y. Sachkova, Magda Lewandowska, Adam M. Reitzel and Yehu Moran<br />
 <em>Nature Communications, 2023</em>  <br />
 <a href="https://www.nature.com/articles/s41467-023-35794-9" target="_blank">[paper]</a> </p>
 
