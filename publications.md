@@ -5,7 +5,7 @@ title: Publications
 
 <h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
-<p><strong>Verifying Generalization in Machine Learning</strong><br />
+<p><strong>Verifying Generalization in Deep Learning</strong><br />
 <strong>Guy Amir</strong>, Osher Maayan, Tom Zelazny, Guy Katz and Michael Schapira<br />
 <em>preprint, 2023</em>  <br />
 <a href="https://arxiv.org/abs/2302.05745" target="_blank">[paper]</a> </p>
