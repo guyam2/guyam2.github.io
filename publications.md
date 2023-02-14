@@ -8,6 +8,7 @@ title: Publications
 <p><strong>Verifying Generalization in Machine Learning</strong><br />
 <strong>Guy Amir</strong>, Osher Maayan, Tom Zelazny, Guy Katz and Michael Schapira<br />
 <em>preprint, 2023</em>  <br />
+<a href="https://arxiv.org/abs/2302.05745" target="_blank">[paper]</a> </p>
 		
 
 
