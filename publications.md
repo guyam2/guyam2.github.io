@@ -13,9 +13,15 @@ title: Publications
 
 
 <p><strong>Constrained Reinforcement Learning for Robotics via Scenario-Based Programming</strong><br />
-Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, David Harel, Guy Katz<br />
+Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, David Harel and Guy Katz<br />
 <em>preprint, 2023</em>  <br />
 <a href="https://arxiv.org/abs/2206.09603" target="_blank">[paper]</a> </p>
+
+
+
+<p><strong>Formal Explainability of DNN-Based Reactive Systems</strong><br />
+Shahaf Bassan*, <strong>Guy Amir*</strong>, Davide Corsi, Idan Refaeli and Guy Katz<br />
+<em>preprint, 2023</em>  <br />
 
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
