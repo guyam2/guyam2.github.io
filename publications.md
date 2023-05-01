@@ -24,7 +24,7 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 <p><strong>Verifying Generalization in Deep Learning</strong><br />
 <strong>Guy Amir*</strong>, Osher Maayan*, Tom Zelazny, Guy Katz and Michael Schapira<br />
 <em>Computer Aided Verification (CAV), 2023</em>  <br />
-<a href="https://arxiv.org/abs/2302.05745" target="_blank">[paper]</a> </p>
+<a href="https://arxiv.org/abs/2302.05745" target="_blank">[paper]</a> <a href="https://zenodo.org/record/7884514#.ZFAydHZBy3A" target="_blank">[code]</a></p>
 
 
 
