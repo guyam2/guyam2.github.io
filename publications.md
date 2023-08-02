@@ -15,9 +15,10 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
-<p><strong>Formal Explainability of DNN-Based Reactive Systems</strong><br />
+<p><strong>Formally Explaining Neural Networks within Reactive Systems</strong><br />
 Shahaf Bassan*, <strong>Guy Amir*</strong>, Davide Corsi, Idan Refaeli, and Guy Katz<br />
-<em>Formal Methods in Computer-Aided Design (FMCAD), 2023</em>  <br />		
+<em>Formal Methods in Computer-Aided Design (FMCAD), 2023</em>    <br />
+<a href="https://arxiv.org/abs/2308.00143" target="_blank">[paper]</a> <a href="https://zenodo.org/record/8197762" target="_blank">[code]</a></p>		
 
 
 <p><strong>Verifying Generalization in Deep Learning</strong><br />
