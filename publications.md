@@ -8,12 +8,12 @@ title: Publications
 
 <p><strong>On the Complexity of Interpreting Distribution-Driven Explanations</strong><br />
 <strong>Guy Amir*</strong>, Shahaf Bassan*, and Guy Katz<br />
-<em>preprint, 2023</em>  <br />
+<em>preprint, 2023</em>  <br /></p> 
 
 
 <p><strong>A Unified Approach for Robust Deep Reinforcement Learning via Abstract Neural Networks</strong><br />
 Dapeng Zhi, <strong>Guy Amir</strong>, Shahaf Bassan, Peixin Wang, Si Liu, Chenyang Xu, Guy Katz, and Min Zhang<br />
-<em>preprint, 2023</em>  <br />
+<em>preprint, 2023</em>  <br /></p> 
 
 
 <p><strong>Constrained Reinforcement Learning for Robotics via Scenario-Based Programming</strong><br />
@@ -49,7 +49,7 @@ Shahaf Bassan*, <strong>Guy Amir*</strong>, Davide Corsi, Idan Refaeli, and Guy 
 <p><strong>Enhancing Deep Reinforcement Learning with Scenario-Based Modeling</strong><br />
 Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz, and Assaf Marron<br />
 <em>Springer Nature Computer Science (SNCS), 2023</em>  <br />
-<a href="https://trebuchet.public.springernature.app/get_content/f05780b7-841c-4efb-ba47-9f31a9c5b934" target="_blank">[paper]</a> </p>
+<a href="https://link.springer.com/article/10.1007/s42979-022-01575-2" target="_blank">[paper]</a> </p>
 
 
 <p><strong>veriFIRE: Verifying an Industrial, Learning-Based Wildfire Detection System</strong><br />
