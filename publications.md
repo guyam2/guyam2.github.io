@@ -6,6 +6,16 @@ title: Publications
 <h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
 
+<p><strong>On the Complexity of Interpreting Distribution-Driven Explanations</strong><br />
+<strong>Guy Amir*</strong>, Shahaf Bassan*, and Guy Katz<br />
+<em>preprint, 2023</em>  <br />
+
+
+<p><strong>A Unified Approach for Robust Deep Reinforcement Learning via Abstract Neural Networks</strong><br />
+Dapeng Zhi, <strong>Guy Amir</strong>, Shahaf Bassan, Peixin Wang, Si Liu, Chenyang Xu, Guy Katz, and Min Zhang<br />
+<em>preprint, 2023</em>  <br />
+
+
 <p><strong>Constrained Reinforcement Learning for Robotics via Scenario-Based Programming</strong><br />
 Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, David Harel, and Guy Katz<br />
 <em>preprint, 2023</em>  <br />
