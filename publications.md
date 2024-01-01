@@ -6,24 +6,29 @@ title: Publications
 <h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
 
+<p><strong>Verifying the Generalization of Deep Learning to Out-of-Distribution Domains</strong><br />
+<strong>Guy Amir</strong>, Osher Maayan, Tom Zelazny, Guy Katz, and Michael Schapira<br />
+<em>preprint, 2024</em>  <br /></p> 
+
+
 <p><strong>On the Complexity of Interpreting Distribution-Driven Explanations</strong><br />
 <strong>Guy Amir*</strong>, Shahaf Bassan*, and Guy Katz<br />
-<em>preprint, 2023</em>  <br /></p> 
+<em>preprint, 2024</em>  <br /></p> 
 
 
 <p><strong>A Formal Analysis of Global Explanations</strong><br />
 Shahaf Bassan, <strong>Guy Amir</strong>, and Guy Katz<br />
-<em>preprint, 2023</em>  <br /></p> 
+<em>preprint, 2024</em>  <br /></p> 
 
 
 <p><strong>A Unified Approach for Robust Deep Reinforcement Learning via Abstract Neural Networks</strong><br />
 Dapeng Zhi, <strong>Guy Amir</strong>, Shahaf Bassan, Peixin Wang, Si Liu, Chenyang Xu, Guy Katz, and Min Zhang<br />
-<em>preprint, 2023</em>  <br /></p> 
+<em>preprint, 2024</em>  <br /></p> 
 
 
 <p><strong>Constrained Reinforcement Learning for Robotics via Scenario-Based Programming</strong><br />
 Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, David Harel, and Guy Katz<br />
-<em>preprint, 2023</em>  <br />
+<em>preprint, 2024</em>  <br />
 <a href="https://arxiv.org/abs/2206.09603" target="_blank">[paper]</a> </p>
 
 
