@@ -35,6 +35,12 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
+<p><strong>Efficient and Scalable Verification of Safety-Critical Systems</strong><br />
+<strong>Guy Amir</strong><br />
+<em>Ph.D. Thesis, The Hebrew University of Jerusalem, 2023</em>  <br /></p> 
+
+		
+		
 <p><strong>Formally Explaining Neural Networks within Reactive Systems</strong><br />
 Shahaf Bassan*, <strong>Guy Amir*</strong>, Davide Corsi, Idan Refaeli, and Guy Katz<br />
 <em>Formal Methods in Computer-Aided Design (FMCAD), 2023</em>    <br />
