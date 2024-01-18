@@ -32,12 +32,17 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 <a href="https://arxiv.org/abs/2206.09603" target="_blank">[paper]</a> </p>
 
 
+<p><strong>Marabou 2.0: A Versatile Formal Analyzer of Neural Networks</strong><br />
+Haoze Wu, Omri Isac, Aleksandar Zeljić, Teruhiro Tagomori, Matthew Daggitt, Wen Kokke, Idan Refaeli, <strong>Guy Amir</strong>, Shahaf Bassan, Ori Lahav, Min Wu, Min Zhang, Ekaterina Komendantskaya, Guy Katz, and Clark Barrett<br />
+<em>preprint, 2024</em>  <br /></p> 
+
+
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
 <p><strong>Efficient and Scalable Verification of Safety-Critical Systems</strong><br />
 <strong>Guy Amir</strong><br />
-<em>Ph.D. Thesis, The Hebrew University of Jerusalem, 2023</em>  <br /></p> 
+<em>Ph.D. Thesis, The Hebrew University of Jerusalem, 2024</em>  <br /></p> 
 
 		
 		
