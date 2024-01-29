@@ -34,7 +34,7 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 
 <p><strong>Marabou 2.0: A Versatile Formal Analyzer of Neural Networks</strong><br />
 Haoze Wu, Omri Isac, Aleksandar Zeljić, Teruhiro Tagomori, Matthew Daggitt, Wen Kokke, Idan Refaeli, <strong>Guy Amir</strong>, Shahaf Bassan, Ori Lahav, Min Wu, Min Zhang, Ekaterina Komendantskaya, Guy Katz, and Clark Barrett<br />
-<em>preprint, 2024</em>  <br /></p> 
+<em>preprint, 2024</em>  <br />
 <a href="https://arxiv.org/abs/2401.14461" target="_blank">[paper]</a> </p>
 
 
