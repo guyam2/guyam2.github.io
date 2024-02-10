@@ -26,6 +26,12 @@ Dapeng Zhi, <strong>Guy Amir</strong>, Shahaf Bassan, Peixin Wang, Si Liu, Cheny
 <em>preprint, 2024</em>  <br /></p> 
 
 
+<p><strong>Analyzing Adversarial Inputs in Deep Reinforcement Learning</strong><br />
+Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Alessandro Farinelli<br />
+<em>preprint, 2024</em>  <br />
+<a href="https://arxiv.org/abs/2402.05284" target="_blank">[paper]</a> </p>
+
+
 <p><strong>Constrained Reinforcement Learning for Robotics via Scenario-Based Programming</strong><br />
 Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, David Harel, and Guy Katz<br />
 <em>preprint, 2024</em>  <br />
