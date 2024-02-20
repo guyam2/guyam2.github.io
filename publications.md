@@ -26,6 +26,12 @@ Dapeng Zhi, <strong>Guy Amir</strong>, Shahaf Bassan, Peixin Wang, Si Liu, Cheny
 <em>preprint, 2024</em>  <br /></p> 
 
 
+<p><strong>Safe and Reliable Training of Learning-Based Aircraft Controllers</strong><br />
+Udayan Mandal, <strong>Guy Amir</strong>, Haoze Wu, Ieva Daukantas, Fletcher Lee Newell, 
+Umberto Ravaioli, Baoluo Meng, Michael Richard Durling, Kerianne Hobbs , Guy Katz, and Clark Barrett<br />
+<em>preprint, 2024</em>  <br /></p> 
+
+
 <p><strong>Analyzing Adversarial Inputs in Deep Reinforcement Learning</strong><br />
 Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Alessandro Farinelli<br />
 <em>preprint, 2024</em>  <br />
