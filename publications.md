@@ -26,12 +26,6 @@ Dapeng Zhi, <strong>Guy Amir</strong>, Shahaf Bassan, Peixin Wang, Si Liu, Cheny
 <em>preprint, 2024</em>  <br /></p> 
 
 
-<p><strong>Safe and Reliable Training of Learning-Based Aircraft Controllers</strong><br />
-Udayan Mandal, <strong>Guy Amir</strong>, Haoze Wu, Ieva Daukantas, Fletcher Lee Newell, 
-Umberto Ravaioli, Baoluo Meng, Michael Richard Durling, Kerianne Hobbs , Guy Katz, and Clark Barrett<br />
-<em>preprint, 2024</em>  <br /></p> 
-
-
 <p><strong>Analyzing Adversarial Inputs in Deep Reinforcement Learning</strong><br />
 Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Alessandro Farinelli<br />
 <em>preprint, 2024</em>  <br />
@@ -54,6 +48,14 @@ Haoze Wu, Omri Isac, Aleksandar Zeljić, Teruhiro Tagomori, Matthew Daggitt, Wen
 
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
+
+
+<p><strong>Safe and Reliable Training of Learning-Based Aircraft Controllers</strong><br />
+Udayan Mandal, <strong>Guy Amir</strong>, Haoze Wu, Ieva Daukantas, Fletcher Lee Newell, 
+Umberto Ravaioli, Baoluo Meng, Michael Richard Durling, Kerianne Hobbs , Guy Katz, and Clark Barrett<br />
+<em>Digital Avionics Systems Conference (DASC), 2024</em>  <br /></p> 
+
+
 
 <p><strong>Efficient and Scalable Verification of Safety-Critical Systems</strong><br />
 <strong>Guy Amir</strong><br />
