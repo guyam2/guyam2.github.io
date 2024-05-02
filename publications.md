@@ -16,11 +16,6 @@ title: Publications
 <em>preprint, 2024</em>  <br /></p> 
 
 
-<p><strong>A Formal Analysis of Global Explanations</strong><br />
-Shahaf Bassan, <strong>Guy Amir</strong>, and Guy Katz<br />
-<em>preprint, 2024</em>  <br /></p> 
-
-
 <p><strong>A Unified Approach for Robust Deep Reinforcement Learning via Abstract Neural Networks</strong><br />
 Dapeng Zhi, <strong>Guy Amir</strong>, Shahaf Bassan, Peixin Wang, Si Liu, Chenyang Xu, Guy Katz, and Min Zhang<br />
 <em>preprint, 2024</em>  <br /></p> 
@@ -40,6 +35,13 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
+
+
+
+<p><strong>Bridging Local and Global Perspectives in Interpretation Complexity</strong><br />
+Shahaf Bassan, <strong>Guy Amir</strong>, and Guy Katz<br />
+<em>International Conference on Machine Learning (ICML), 2024</em>  <br /></p> 
+
 
 
 <p><strong>Safe and Reliable Training of Learning-Based Aircraft Controllers</strong><br />
