@@ -37,6 +37,11 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
 
+<p><strong>Verification-Guided Shielding for Deep Reinforcement Learning</strong><br />
+Davide Corsi*, <strong>Guy Amir*</strong>, Andoni Rodriguez, Guy Katz, Cesar Sanchez, and Roy Fox<br />
+<em>Reinforcement Learning Conference (RLC), 2024</em>  <br /></p> 
+
+
 
 <p><strong>Bridging Local and Global Perspectives in Interpretation Complexity</strong><br />
 Shahaf Bassan, <strong>Guy Amir</strong>, and Guy Katz<br />
