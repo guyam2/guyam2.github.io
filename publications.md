@@ -6,10 +6,6 @@ title: Publications
 <h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
 
-<p><strong>Verifying the Generalization of Deep Learning to Out-of-Distribution Domains</strong><br />
-<strong>Guy Amir</strong>, Osher Maayan, Tom Zelazny, Guy Katz, and Michael Schapira<br />
-<em>preprint, 2024</em>  <br /></p> 
-
 
 <p><strong>On the Complexity of Interpreting Distribution-Driven Explanations</strong><br />
 <strong>Guy Amir*</strong>, Shahaf Bassan*, and Guy Katz<br />
@@ -35,6 +31,11 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
+
+<p><strong>Verifying the Generalization of Deep Learning to Out-of-Distribution Domains</strong><br />
+<strong>Guy Amir</strong>, Osher Maayan, Tom Zelazny, Guy Katz, and Michael Schapira<br />
+<em>Journal of Automated Reasoning (JAR), 2024</em>  <br /></p> 
+
 
 
 <p><strong>Verification-Guided Shielding for Deep Reinforcement Learning</strong><br />
