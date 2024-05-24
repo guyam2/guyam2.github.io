@@ -29,6 +29,13 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 <a href="https://arxiv.org/abs/2206.09603" target="_blank">[paper]</a> </p>
 
 
+<p><strong>Formally Verifying Deep Reinforcement Learning Controllers with Lyapunov Barrier Certificates</strong><br />
+Udayan Mandal, <strong>Guy Amir</strong>, Haoze Wu, Ieva Daukantas, Fletcher Newell, Umberto Ravaioli, Baoluo Meng, 
+Michael Durling, Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
+<em>preprint, 2024</em>  <br />
+<a href="https://arxiv.org/abs/2405.14058" target="_blank">[paper]</a> </p>
+
+
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
