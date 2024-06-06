@@ -41,7 +41,8 @@ Michael Durling, Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
 
 <p><strong>Verifying the Generalization of Deep Learning to Out-of-Distribution Domains</strong><br />
 <strong>Guy Amir</strong>, Osher Maayan, Tom Zelazny, Guy Katz, and Michael Schapira<br />
-<em>Journal of Automated Reasoning (JAR), 2024</em>  <br /></p> 
+<em>Journal of Automated Reasoning (JAR), 2024</em>  <br />
+<a href="https://arxiv.org/abs/2406.02024" target="_blank">[paper]</a> </p>
 
 
 
@@ -51,9 +52,10 @@ Davide Corsi*, <strong>Guy Amir*</strong>, Andoni Rodriguez, Cesar Sanchez, Guy 
 
 
 
-<p><strong>Bridging Local and Global Perspectives in Interpretation Complexity</strong><br />
+<p><strong>Local vs. Global Interpretability: A Computational Complexity Perspective </strong><br />
 Shahaf Bassan, <strong>Guy Amir</strong>, and Guy Katz<br />
-<em>International Conference on Machine Learning (ICML), 2024</em>  <br /></p> 
+<em>International Conference on Machine Learning (ICML), 2024</em>   <br />
+<a href="https://arxiv.org/abs/2406.02981" target="_blank">[paper]</a> </p>
 
 
 
