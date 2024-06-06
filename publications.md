@@ -39,11 +39,6 @@ Michael Durling, Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
-<p><strong>Verifying the Generalization of Deep Learning to Out-of-Distribution Domains</strong><br />
-<strong>Guy Amir</strong>, Osher Maayan, Tom Zelazny, Guy Katz, and Michael Schapira<br />
-<em>Journal of Automated Reasoning (JAR), 2024</em>  <br />
-<a href="https://arxiv.org/abs/2406.02024" target="_blank">[paper]</a> </p>
-
 
 
 <p><strong>Verification-Guided Shielding for Deep Reinforcement Learning</strong><br />
