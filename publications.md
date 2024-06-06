@@ -39,6 +39,11 @@ Michael Durling, Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
+<p><strong>Verifying the Generalization of Deep Learning to Out-of-Distribution Domains</strong><br />
+<strong>Guy Amir</strong>, Osher Maayan, Tom Zelazny, Guy Katz, and Michael Schapira<br />
+<em>Journal of Automated Reasoning (JAR), 2024</em>  <br />
+<a href="https://arxiv.org/abs/2406.02024" target="_blank">[paper]</a> </p>
+
 
 
 <p><strong>Verification-Guided Shielding for Deep Reinforcement Learning</strong><br />
@@ -46,6 +51,11 @@ Davide Corsi*, <strong>Guy Amir*</strong>, Andoni Rodriguez, Cesar Sanchez, Guy 
 <em>Reinforcement Learning Conference (RLC), 2024</em>  <br /></p> 
 
 
+
+<p><strong>Local vs. Global Interpretability: A Computational Complexity Perspective </strong><br />
+Shahaf Bassan, <strong>Guy Amir</strong>, and Guy Katz<br />
+<em>International Conference on Machine Learning (ICML), 2024</em>   <br />
+<a href="https://arxiv.org/abs/2406.02981" target="_blank">[paper]</a> </p>
 
 
 
@@ -158,5 +168,4 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 <p><strong>Diffusion-Based Handedness Classification for Touch-Based Input</strong><br />
 <strong>Guy Amir</strong>, Adam Hakim, Aviv Slobodkin<br />
 <em>Microsoft R&D - Provisional Patent Pending, 2021</em>
-
 
