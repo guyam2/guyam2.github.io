@@ -11,6 +11,13 @@ title: Publications
 <strong>Guy Amir*</strong>, Shahaf Bassan*, and Guy Katz<br />
 <em>preprint, 2024</em>  <br /></p> 
 
+<p><strong>Shield Synthesis for LTL Modulo Theories</strong><br />
+Andoni Rodriguez, <strong>Guy Amir</strong>, Davide Corsi, Cesar Sanchez, and Guy Katz
+<em>preprint, 2024</em>  <br />
+<a href="https://arxiv.org/abs/2406.04184" target="_blank">[paper]</a> </p>
+
+
+
 
 <p><strong>A Unified Approach for Robust Deep Reinforcement Learning via Abstract Neural Networks</strong><br />
 Dapeng Zhi, <strong>Guy Amir</strong>, Shahaf Bassan, Peixin Wang, Si Liu, Chenyang Xu, Guy Katz, and Min Zhang<br />
