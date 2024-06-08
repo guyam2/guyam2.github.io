@@ -11,8 +11,9 @@ title: Publications
 <strong>Guy Amir*</strong>, Shahaf Bassan*, and Guy Katz<br />
 <em>preprint, 2024</em>  <br /></p> 
 
+
 <p><strong>Shield Synthesis for LTL Modulo Theories</strong><br />
-Andoni Rodriguez, <strong>Guy Amir</strong>, Davide Corsi, Cesar Sanchez, and Guy Katz
+Andoni Rodriguez, <strong>Guy Amir</strong>, Davide Corsi, Cesar Sanchez, and Guy Katz<br />
 <em>preprint, 2024</em>  <br />
 <a href="https://arxiv.org/abs/2406.04184" target="_blank">[paper]</a> </p>
 
