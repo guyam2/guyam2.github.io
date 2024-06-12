@@ -56,7 +56,8 @@ Michael Durling, Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
 
 <p><strong>Verification-Guided Shielding for Deep Reinforcement Learning</strong><br />
 Davide Corsi*, <strong>Guy Amir*</strong>, Andoni Rodriguez, Cesar Sanchez, Guy Katz, and Roy Fox<br />
-<em>Reinforcement Learning Conference (RLC), 2024</em>  <br /></p> 
+<em>Reinforcement Learning Conference (RLC), 2024</em>  <br />
+<a href="https://arxiv.org/abs/2406.06507" target="_blank">[paper]</a> </p>
 
 
 
