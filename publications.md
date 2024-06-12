@@ -80,12 +80,6 @@ Haoze Wu, Omri Isac, Aleksandar Zeljić, Teruhiro Tagomori, Matthew Daggitt, Wen
 <em>Computer Aided Verification (CAV), 2024</em>  <br />
 <a href="https://arxiv.org/abs/2401.14461" target="_blank">[paper]</a> </p>
 
-
-
-<p><strong>Efficient and Scalable Verification of Safety-Critical Systems</strong><br />
-<strong>Guy Amir</strong><br />
-<em>Ph.D. Thesis, The Hebrew University of Jerusalem, 2024</em>  <br /></p> 
-
 		
 		
 <p><strong>Formally Explaining Neural Networks within Reactive Systems</strong><br />
@@ -166,6 +160,17 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 <strong>Guy Amir</strong>, Ayala Prusak, Tal Reiss, Nir Zabari, and Dror Feitelson<br />
 <em>Software Engineering Research and Industrial Practice (SER & IP), 2021</em>  <br />
 <a href="https://arxiv.org/pdf/2103.13198.pdf" target="_blank">[paper]</a> </p>
+
+
+
+
+<h1 style="color:#4646D1"> <b> Thesis </b> </h1>
+
+<p><strong>Efficient and Scalable Verification of Safety-Critical Systems</strong><br />
+<strong>Guy Amir</strong><br />
+<em>Ph.D. Thesis, The Hebrew University of Jerusalem, 2024</em>  <br /></p> 
+
+
 
 <h1 style="color:#4646D1"> <b> Patents </b> </h1>
 
