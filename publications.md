@@ -70,7 +70,8 @@ Shahaf Bassan, <strong>Guy Amir</strong>, and Guy Katz<br />
 
 <p><strong>Safe and Reliable Training of Learning-Based Aircraft Controllers</strong><br />
 Udayan Mandal, <strong>Guy Amir</strong>, Haoze Wu, Ieva Daukantas, Fletcher Lee Newell, 
-Umberto Ravaioli, Baoluo Meng, Michael Richard Durling, Kerianne Hobbs , Guy Katz, and Clark Barrett<br />
+Umberto Ravaioli, Baoluo Meng, Michael Richard Durling, Kerianne Hobbs, 
+Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
 <em>Digital Avionics Systems Conference (DASC), 2024</em>  <br /></p> 
 
 
