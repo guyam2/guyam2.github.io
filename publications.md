@@ -50,7 +50,8 @@ Michael Durling, Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
 <p><strong>Verifying the Generalization of Deep Learning to Out-of-Distribution Domains</strong><br />
 <strong>Guy Amir</strong>, Osher Maayan, Tom Zelazny, Guy Katz, and Michael Schapira<br />
 <em>Journal of Automated Reasoning (JAR), 2024</em>  <br />
-<a href="https://arxiv.org/abs/2406.02024" target="_blank">[paper]</a> </p>
+<a href="https://arxiv.org/abs/2406.02024" target="_blank">[paper]</a> <a href="https://zenodo.org/records/10448320" target="_blank">[code]</a></p>
+
 
 
 
