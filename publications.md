@@ -80,7 +80,7 @@ Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
 <p><strong>Marabou 2.0: A Versatile Formal Analyzer of Neural Networks</strong><br />
 Haoze Wu, Omri Isac, Aleksandar Zeljić, Teruhiro Tagomori, Matthew Daggitt, Wen Kokke, Idan Refaeli, <strong>Guy Amir</strong>, Shahaf Bassan, Ori Lahav, Min Wu, Min Zhang, Ekaterina Komendantskaya, Guy Katz, and Clark Barrett<br />
 <em>Computer Aided Verification (CAV), 2024</em>  <br />
-<a href="https://arxiv.org/abs/2401.14461" target="_blank">[paper]</a> </p>
+<a href="https://arxiv.org/abs/2401.14461" target="_blank">[paper]</a> <a href="https://github.com/NeuralNetworkVerification/Marabou/releases/tag/v2.0.0" target="_blank">[code]</a></p>
 
 		
 		
