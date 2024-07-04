@@ -14,11 +14,6 @@ Andoni Rodriguez, <strong>Guy Amir</strong>, Davide Corsi, Cesar Sanchez, and Gu
 
 
 
-<p><strong>A Unified Approach for Robust Deep Reinforcement Learning via Abstract Neural Networks</strong><br />
-Dapeng Zhi, <strong>Guy Amir</strong>, Shahaf Bassan, Peixin Wang, Si Liu, Chenyang Xu, Guy Katz, and Min Zhang<br />
-<em>preprint, 2024</em>  <br /></p> 
-
-
 <p><strong>Analyzing Adversarial Inputs in Deep Reinforcement Learning</strong><br />
 Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Alessandro Farinelli<br />
 <em>preprint, 2024</em>  <br />
