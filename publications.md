@@ -41,7 +41,7 @@ Michael Durling, Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
-<p><strong>On the Complexity of Interpreting Distribution-Driven Explanations</strong><br />
+<p><strong>Hard to Explain? On the Hardness of Socially Aligned Model Interpretation</strong><br />
 <strong>Guy Amir*</strong>, Shahaf Bassan*, and Guy Katz<br />
 <em>European Conference on Artificial Intelligence (ECAI), 2024</em>  <br /></p> 
 
