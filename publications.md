@@ -6,12 +6,6 @@ title: Publications
 <h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
 
-
-<p><strong>On the Complexity of Interpreting Distribution-Driven Explanations</strong><br />
-<strong>Guy Amir*</strong>, Shahaf Bassan*, and Guy Katz<br />
-<em>preprint, 2024</em>  <br /></p> 
-
-
 <p><strong>Shield Synthesis for LTL Modulo Theories</strong><br />
 Andoni Rodriguez, <strong>Guy Amir</strong>, Davide Corsi, Cesar Sanchez, and Guy Katz<br />
 <em>preprint, 2024</em>  <br />
@@ -47,6 +41,12 @@ Michael Durling, Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
+<p><strong>On the Complexity of Interpreting Distribution-Driven Explanations</strong><br />
+<strong>Guy Amir*</strong>, Shahaf Bassan*, and Guy Katz<br />
+<em>European Conference on Artificial Intelligence (ECAI), 2024</em>  <br /></p> 
+
+
+
 <p><strong>Verifying the Generalization of Deep Learning to Out-of-Distribution Domains</strong><br />
 <strong>Guy Amir</strong>, Osher Maayan, Tom Zelazny, Guy Katz, and Michael Schapira<br />
 <em>Journal of Automated Reasoning (JAR), 2024</em>  <br />
@@ -55,17 +55,17 @@ Michael Durling, Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
 
 
 
-<p><strong>Verification-Guided Shielding for Deep Reinforcement Learning</strong><br />
-Davide Corsi*, <strong>Guy Amir*</strong>, Andoni Rodriguez, Cesar Sanchez, Guy Katz, and Roy Fox<br />
-<em>Reinforcement Learning Conference (RLC), 2024</em>  <br />
-<a href="https://arxiv.org/abs/2406.06507" target="_blank">[paper]</a> </p>
-
-
-
 <p><strong>Local vs. Global Interpretability: A Computational Complexity Perspective </strong><br />
 Shahaf Bassan, <strong>Guy Amir</strong>, and Guy Katz<br />
 <em>International Conference on Machine Learning (ICML), 2024 (Spotlight)</em>   <br />
 <a href="https://arxiv.org/abs/2406.02981" target="_blank">[paper]</a> </p>
+
+
+
+<p><strong>Verification-Guided Shielding for Deep Reinforcement Learning</strong><br />
+Davide Corsi*, <strong>Guy Amir*</strong>, Andoni Rodriguez, Cesar Sanchez, Guy Katz, and Roy Fox<br />
+<em>Reinforcement Learning Conference (RLC), 2024</em>  <br />
+<a href="https://arxiv.org/abs/2406.06507" target="_blank">[paper]</a> </p>
 
 
 
