@@ -26,12 +26,6 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 <a href="https://arxiv.org/abs/2206.09603" target="_blank">[paper]</a> </p>
 
 
-<p><strong>Formally Verifying Deep Reinforcement Learning Controllers with Lyapunov Barrier Certificates</strong><br />
-Udayan Mandal, <strong>Guy Amir</strong>, Haoze Wu, Ieva Daukantas, Fletcher Newell, Umberto Ravaioli, Baoluo Meng, 
-Michael Durling, Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
-<em>preprint, 2024</em>  <br />
-<a href="https://arxiv.org/abs/2405.14058" target="_blank">[paper]</a> </p>
-
 
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
@@ -39,6 +33,13 @@ Michael Durling, Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
 <p><strong>Hard to Explain? On the Hardness of Socially Aligned Model Interpretation</strong><br />
 <strong>Guy Amir*</strong>, Shahaf Bassan*, and Guy Katz<br />
 <em>European Conference on Artificial Intelligence (ECAI), 2024</em>  <br /></p> 
+
+
+<p><strong>Formally Verifying Deep Reinforcement Learning Controllers with Lyapunov Barrier Certificates</strong><br />
+Udayan Mandal, <strong>Guy Amir</strong>, Haoze Wu, Ieva Daukantas, Fletcher Newell, Umberto Ravaioli, Baoluo Meng, 
+Michael Durling, Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
+<em>Formal Methods in Computer-Aided Design (FMCAD), 2024</em>    <br />
+<a href="https://arxiv.org/abs/2405.14058" target="_blank">[paper]</a> <a href="https://github.com/NeuralNetworkVerification/artifact-fmcad24-docking" target="_blank">[code]</a></p>		
 
 
 
@@ -68,8 +69,8 @@ Davide Corsi*, <strong>Guy Amir*</strong>, Andoni Rodriguez, Cesar Sanchez, Guy 
 Udayan Mandal, <strong>Guy Amir</strong>, Haoze Wu, Ieva Daukantas, Fletcher Lee Newell, 
 Umberto Ravaioli, Baoluo Meng, Michael Richard Durling, Kerianne Hobbs, 
 Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
-<em>Digital Avionics Systems Conference (DASC), 2024</em>  <br /></p> 
-
+<em>Digital Avionics Systems Conference (DASC), 2024</em>  <br />
+<a href="" target="_blank">[paper]</a> <a href="https://github.com/NeuralNetworkVerification/artifact-dasc-docking" target="_blank">[code]</a></p>
 
 
 <p><strong>Marabou 2.0: A Versatile Formal Analyzer of Neural Networks</strong><br />
