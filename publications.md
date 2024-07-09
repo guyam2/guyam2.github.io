@@ -64,7 +64,7 @@ Davide Corsi*, <strong>Guy Amir*</strong>, Andoni Rodriguez, Cesar Sanchez, Guy 
 
 
 
-<p><strong>Safe and Reliable Training of Learning-Based Aircraft Controllers</strong><br />
+<p><strong>Safe and Reliable Training of Learning-Based Aerospace Controllers</strong><br />
 Udayan Mandal, <strong>Guy Amir</strong>, Haoze Wu, Ieva Daukantas, Fletcher Lee Newell, 
 Umberto Ravaioli, Baoluo Meng, Michael Richard Durling, Kerianne Hobbs, 
 Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
