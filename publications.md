@@ -70,7 +70,7 @@ Udayan Mandal, <strong>Guy Amir</strong>, Haoze Wu, Ieva Daukantas, Fletcher Lee
 Umberto Ravaioli, Baoluo Meng, Michael Richard Durling, Kerianne Hobbs, 
 Milan Ganai, Tobey Shim, Guy Katz, and Clark Barrett<br />
 <em>Digital Avionics Systems Conference (DASC), 2024</em>  <br />
-<a href="" target="_blank">[paper]</a> <a href="https://github.com/NeuralNetworkVerification/artifact-dasc-docking" target="_blank">[code]</a></p>
+<a href="https://arxiv.org/pdf/2407.07088" target="_blank">[paper]</a> <a href="https://github.com/NeuralNetworkVerification/artifact-dasc-docking" target="_blank">[code]</a></p>
 
 
 <p><strong>Marabou 2.0: A Versatile Formal Analyzer of Neural Networks</strong><br />
