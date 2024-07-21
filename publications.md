@@ -172,12 +172,16 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 
 <h1 style="color:#4646D1"> <b> Patents </b> </h1>
 
+
+<p><strong>strong>Diffusion-Based Handedness Classification for Touch-Based Input</strong><br />
+<strong>Guy Amir</strong>, Adam Hakim, Aviv Slobodkin<br />
+<em>Microdoft R&D - U.S. Patent 11947758, 2024</em>  <br />
+<a href="https://patentimages.storage.googleapis.com/fc/fd/41/9848e04d2a3d49/US11947758.pdf" target="_blank">[patent]</a> </p>
+
+
 <p><strong>Training Quantization-Aware AMAC Computing</strong><br />
 <strong>Guy Amir</strong>, Doug Burger, Gilad Kirshenboim, Yehonathan Refael, Ran Sahar<br />
 <em>Microsoft R&D - Provisional Patent Pending, 2021</em>
 
 
-<p><strong>Diffusion-Based Handedness Classification for Touch-Based Input</strong><br />
-<strong>Guy Amir</strong>, Adam Hakim, Aviv Slobodkin<br />
-<em>Microsoft R&D - Provisional Patent Pending, 2021</em>
 
