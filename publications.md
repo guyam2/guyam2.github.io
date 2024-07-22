@@ -174,7 +174,7 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 
 
 <p><strong>Diffusion-Based Handedness Classification for Touch-Based Input</strong><br />
-<strong>Guy Amir</strong>, Adam Hakim, Aviv Slobodkin (Microsoft R&D)<br />
+Adam Hakim, <strong>Guy Amir</strong>, Aviv Slobodkin (Microsoft R&D)<br />
 <em>U.S. Patent 11947758</em>  <br />
 <a href="https://patentimages.storage.googleapis.com/fc/fd/41/9848e04d2a3d49/US11947758.pdf" target="_blank">[patent]</a> </p>
 
