@@ -30,9 +30,12 @@ Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, D
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
-<p><strong>Hard to Explain? On the Hardness of Socially Aligned Model Interpretation</strong><br />
+<p><strong>Hard to Explain: On the Computational Hardness of In-Distribution Model Interpretation
+</strong><br />
 <strong>Guy Amir*</strong>, Shahaf Bassan*, and Guy Katz<br />
-<em>European Conference on Artificial Intelligence (ECAI), 2024</em>  <br /></p> 
+<em>European Conference on Artificial Intelligence (ECAI), 2024</em>  <br />
+<a href="http://arxiv.org/abs/2408.03915" target="_blank">[paper]</a> </p> 
+
 
 
 <p><strong>Formally Verifying Deep Reinforcement Learning Controllers with Lyapunov Barrier Certificates</strong><br />
