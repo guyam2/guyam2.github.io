@@ -153,7 +153,7 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 <p><strong>An SMT-Based Approach for Verifying Binarized Neural Networks</strong><br />
 <strong>Guy Amir</strong>, Haoze Wu, Clark Barrett, and Guy Katz<br />
 <em>Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2021</em>  <br />
-<a href="https://827193a1-9da3-43a4-95c8-2d597121b1ef.filesusr.com/ugd/e8497d_33aa3f89cb494f25a06310e283435ff2.pdf" target="_blank">[paper]</a> <a href="https://drive.google.com/file/d/1Rg4HUoi29i8GLZl3vPDKv3a3Ihq4gEpG/view?usp=sharing" target="_blank">[code]</a></p>
+<a href="https://827193a1-9da3-43a4-95c8-2d597121b1ef.filesusr.com/ugd/e8497d_33aa3f89cb494f25a06310e283435ff2.pdf" target="_blank">[paper]</a> <a href="https://zenodo.org/records/13354140" target="_blank">[code]</a></p>
 
 
 
