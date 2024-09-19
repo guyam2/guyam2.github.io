@@ -25,7 +25,7 @@ Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Alessandro Farinelli<br /
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
 
-<p><strong>Constrained Reinforcement Learning for Robotics via Scenario-Based Programming</strong><br />
+<p><strong>Enforcing Specific Behaviours via Constrained DRL and Scenario-Based Programming</strong><br />
 Davide Corsi, Raz Yerushalmi, <strong>Guy Amir</strong>, Alessandro Farinelli, David Harel, and Guy Katz<br />
 <em>International Conference on Neural Information Processing (ICONIP), 2024</em>  <br />
 <a href="https://arxiv.org/abs/2206.09603" target="_blank">[paper]</a> </p>
