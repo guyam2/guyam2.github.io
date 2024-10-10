@@ -6,15 +6,16 @@ title: Publications
 <h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
 
-<p><strong>Shield Synthesis for LTL Modulo Theories</strong><br />
-Andoni Rodriguez, <strong>Guy Amir</strong>, Davide Corsi, Cesar Sanchez, and Guy Katz<br />
-<em>preprint, 2024</em>  <br />
-<a href="https://arxiv.org/abs/2406.04184" target="_blank">[paper]</a> </p>
-
 
 <p><strong>A Computational Complexity Analysis of Ensemble Interpretability</strong><br />
 Shahaf Bassan, <strong>Guy Amir</strong>, Meirav Zehavi, and Guy Katz<br />
 <em>preprint, 2024</em>  <br /></p>
+
+
+<p><strong>Shield Synthesis for LTL Modulo Theories</strong><br />
+Andoni Rodriguez, <strong>Guy Amir</strong>, Davide Corsi, Cesar Sanchez, and Guy Katz<br />
+<em>preprint, 2024</em>  <br />
+<a href="https://arxiv.org/abs/2406.04184" target="_blank">[paper]</a> </p>
 
 
 <p><strong>Analyzing Adversarial Inputs in Deep Reinforcement Learning</strong><br />
