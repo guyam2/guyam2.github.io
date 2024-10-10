@@ -190,8 +190,12 @@ Adam Hakim, <strong>Guy Amir</strong>, Aviv Slobodkin (Microsoft R&D)<br />
 
 
 <p><strong>Training Quantization-Aware AMAC Computing</strong><br />
-<strong>Guy Amir</strong>, Doug Burger, Gilad Kirshenboim, Yehonathan Refael, Ran Sahar (Microsoft R&D)<br />
-<em>Provisional Patent Pending, 2021</em>
+<strong>Guy Amir</strong>, Doug Burger, Gilad Kirshenboim, Yehonathan Refael (Microsoft R&D)<br />
+<em>Provisional Patent Pending, 2021</em>  <br />
+<a href="https://patents.justia.com/patent/20230316065#history" target="_blank">[patent]</a> </p>
+
+
+
 
 
 
