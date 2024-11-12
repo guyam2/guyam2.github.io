@@ -7,7 +7,7 @@ title: Publications
 
 
 
-<p><strong>A Computational Complexity Analysis of Ensemble Interpretability</strong><br />
+<p><strong>On the (Un)Interpretability of Ensembles: A Computational Analysis</strong><br />
 Shahaf Bassan, <strong>Guy Amir</strong>, Meirav Zehavi, and Guy Katz<br />
 <em>preprint, 2024</em>  <br /></p>
 
@@ -185,13 +185,13 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 
 <p><strong>Diffusion-Based Handedness Classification for Touch-Based Input</strong><br />
 Adam Hakim, <strong>Guy Amir</strong>, Aviv Slobodkin (Microsoft R&D)<br />
-<em>U.S. Patent 11,947,758</em>  <br />
+<em>U.S. Patent 11,947,758-B2</em>  <br />
 <a href="https://patentimages.storage.googleapis.com/fc/fd/41/9848e04d2a3d49/US11947758.pdf" target="_blank">[patent]</a> </p>
 
 
 <p><strong>Training Quantization-Aware AMAC Computing</strong><br />
-<strong>Guy Amir</strong>, Doug Burger, Gilad Kirshenboim, Yehonathan Refael (Microsoft R&D)<br />
-<em>Provisional Patent Pending, 2021</em>  <br />
+Yehonathan Refael, Gilad Kirshenboim, <strong>Guy Amir</strong>, Doug Burger (Microsoft R&D)<br />
+<em>Provisional Patent Pending, 2022</em>  <br />
 <a href="https://patents.justia.com/patent/20230316065#history" target="_blank">[patent]</a> </p>
 
 
