@@ -26,7 +26,7 @@ Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Alessandro Farinelli<br /
 
 <p><strong>Shield Synthesis for LTL Modulo Theories</strong><br />
 Andoni Rodriguez, <strong>Guy Amir</strong>, Davide Corsi, Cesar Sanchez, and Guy Katz<br />
-<em>AAAI Conference on Artificial Intelligence, 2025</em>  <br />
+<em>AAAI Conference on Artificial Intelligence (AAAI), 2025</em>  <br />
 <a href="https://arxiv.org/abs/2406.04184" target="_blank">[paper]</a> </p>
 
 
