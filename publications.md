@@ -191,10 +191,10 @@ Adam Hakim, <strong>Guy Amir</strong>, Aviv Slobodkin (Microsoft R&D)<br />
 <a href="https://patentimages.storage.googleapis.com/fc/fd/41/9848e04d2a3d49/US11947758.pdf" target="_blank">[patent]</a> </p>
 
 
-<p><strong>Training Quantization-Aware AMAC Computing</strong><br />
+<p><strong>Analog Multiply-and-Accumulate Circuit Aware Training</strong><br />
 Yehonathan Refael, Gilad Kirshenboim, <strong>Guy Amir</strong>, Doug Burger (Microsoft R&D)<br />
 <em>Provisional Patent Pending, 2022</em>  <br />
-<a href="https://patents.justia.com/patent/20230316065#history" target="_blank">[patent]</a> </p>
+<a href="https://patents.google.com/patent/US20230316065A1/en" target="_blank">[patent]</a> </p>
 
 
 
