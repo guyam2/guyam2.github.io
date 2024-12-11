@@ -6,11 +6,11 @@ title: Publications
 <h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
 
-
-#<p><strong>On the (Un)Interpretability of Ensembles: A Computational Analysis</strong><br />
-#Shahaf Bassan, <strong>Guy Amir</strong>, Meirav Zehavi, and Guy Katz<br />
-#<em>preprint, 2024</em>  <br /></p>
-
+<!--
+<p><strong>On the (Un)Interpretability of Ensembles: A Computational Analysis</strong><br />
+Shahaf Bassan, <strong>Guy Amir</strong>, Meirav Zehavi, and Guy Katz<br />
+<em>preprint, 2024</em>  <br /></p>
+-->
 
 <p><strong>Analyzing Adversarial Inputs in Deep Reinforcement Learning</strong><br />
 Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Alessandro Farinelli<br />
