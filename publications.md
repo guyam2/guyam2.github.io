@@ -19,7 +19,7 @@ Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Alessandro Farinelli<br /
 
 <p><strong>What makes an Ensemble (Un) Interpretable?</strong><br />
 Shahaf Bassan, <strong>Guy Amir</strong>, Meirav Zehavi, and Guy Katz<br />
-<em>International Conference on Machine Learning (ICML), 2025</em>  <br /></p>
+<em>International Conference on Machine Learning (ICML), 2025</em>  <br />
 <a href="https://arxiv.org/abs/2506.08216" target="_blank">[paper]</a> </p>
 
 
