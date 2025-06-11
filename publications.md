@@ -17,10 +17,10 @@ Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Alessandro Farinelli<br /
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
-<p><strong>On the (Un)Interpretability of Ensembles: A Computational Analysis</strong><br />
+<p><strong>What makes an Ensemble (Un) Interpretable?</strong><br />
 Shahaf Bassan, <strong>Guy Amir</strong>, Meirav Zehavi, and Guy Katz<br />
 <em>International Conference on Machine Learning (ICML), 2025</em>  <br /></p>
-
+<a href="https://arxiv.org/abs/2506.08216" target="_blank">[paper]</a> </p>
 
 
 <p><strong>Shield Synthesis for LTL Modulo Theories</strong><br />
