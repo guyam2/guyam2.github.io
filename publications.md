@@ -7,10 +7,13 @@ title: Publications
 
 
 
-<p><strong>Analyzing Adversarial Inputs in Deep Reinforcement Learning</strong><br />
-Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Alessandro Farinelli<br />
-<em>preprint, 2024</em>  <br />
-<a href="https://arxiv.org/abs/2402.05284" target="_blank">[paper]</a> </p>
+
+
+<p><strong>Formally Verifying Stock Classifiers</strong><br />
+Daniel Wiedenmann*, <strong>Guy Amir*</strong>, and Guy Katz<br />
+<em>Currently Under Review, 2025</em>  <br />
+</p>
+
 
 
 
@@ -21,6 +24,14 @@ Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Alessandro Farinelli<br /
 Shahaf Bassan, <strong>Guy Amir</strong>, Meirav Zehavi, and Guy Katz<br />
 <em>International Conference on Machine Learning (ICML), 2025</em>  <br />
 <a href="https://arxiv.org/abs/2506.08216" target="_blank">[paper]</a> </p>
+
+
+
+<p><strong>Analyzing Adversarial Inputs in Deep Reinforcement Learning</strong><br />
+Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Alessandro Farinelli<br />
+<em>International Symposium on Leveraging Applications of Formal Methods, Verification and Validation (ISoLA), 2025</em>  <br />
+<a href="https://arxiv.org/abs/2402.05284" target="_blank">[paper]</a> </p>
+
 
 
 <p><strong>Shield Synthesis for LTL Modulo Theories</strong><br />
