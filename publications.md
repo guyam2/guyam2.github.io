@@ -29,7 +29,7 @@ Shahaf Bassan, <strong>Guy Amir</strong>, Meirav Zehavi, and Guy Katz<br />
 
 <p><strong>Analyzing Adversarial Inputs in Deep Reinforcement Learning</strong><br />
 Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Alessandro Farinelli<br />
-<em>International Symposium on Leveraging Applications of Formal Methods, Verification and Validation (ISoLA), 2025</em>  <br />
+<em> Bridging the Gap Between AI and Reality (AISoLA), 2025</em>  <br />
 <a href="https://arxiv.org/abs/2402.05284" target="_blank">[paper]</a> </p>
 
 
