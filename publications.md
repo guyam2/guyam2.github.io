@@ -9,7 +9,7 @@ title: Publications
 <p><strong>When One Message Tells the Whole Story: Deciding Serializability in Network Systems</strong><br />
 <strong>Guy Amir</strong>, Mark Barbone, Nicolas Amat, and Jules Jacobs<br />
 <em>Currently Under Review, 2025</em>  <br />
-<a href="https://guyam2.github.io/" target="_blank">[paper]</a> <a href="https://zenodo.org/records/17253581" target="_blank">[code]</a></p>		
+</p>		
 
 
 
