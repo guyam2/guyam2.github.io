@@ -6,6 +6,11 @@ title: Publications
 <h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
 
+<p><strong>When One Message Tells the Whole Story: Deciding Serializability in Network Systems</strong><br />
+<strong>Guy Amir</strong>, Mark Barbone, Nicolas Amat, and Jules Jacobs<br />
+<em>Currently Under Review, 2025</em>  <br />
+<a href="https://guyam2.github.io/" target="_blank">[paper]</a> <a href="https://zenodo.org/records/17253581" target="_blank">[code]</a></p>		
+
 
 
 
@@ -15,6 +20,12 @@ Daniel Wiedenmann*, <strong>Guy Amir*</strong>, and Guy Katz<br />
 </p>
 
 
+
+
+<p><strong>Shield Synthesis Modulo Theories: Neurosymbolic Guardrails For Realistic Autonomous Agents</strong><br />
+Andoni Rodriguez, Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Cesar Sanchez<br />
+<em>Currently Under Review, 2025</em>  <br />
+</p>
 
 
 
