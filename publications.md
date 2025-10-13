@@ -12,6 +12,12 @@ title: Publications
 </p>		
 
 
+<p><strong>On Session Types in Networks</strong><br />
+Jens Kanstrup, Alceste Scalas, <strong>Guy Amir</strong>, Jules Jacobs, Jana Wagemaker, and Nate Foster
+<em>Currently Under Review, 2025</em>  <br />
+</p>		
+
+
 
 
 <p><strong>Formally Verifying Stock Classifiers</strong><br />
