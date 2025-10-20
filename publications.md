@@ -13,7 +13,7 @@ title: Publications
 
 
 <p><strong>On Session Types in Networks</strong><br />
-Jens Kanstrup, Alceste Scalas, <strong>Guy Amir</strong>, Jules Jacobs, Jana Wagemaker, and Nate Foster
+Jens Kanstrup, Alceste Scalas, <strong>Guy Amir</strong>, Jules Jacobs, Jana Wagemaker, and Nate Foster<br />
 <em>Currently Under Review, 2025</em>  <br />
 </p>		
 
