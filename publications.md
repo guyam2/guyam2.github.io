@@ -26,6 +26,11 @@ Daniel Wiedenmann*, <strong>Guy Amir*</strong>, and Guy Katz<br />
 </p>
 
 
+<p><strong>Deep Active Learning with Adversarial Examples Based on Formal Verification</strong><br />
+Jonathan Spiegelman, <strong>Guy Amir</strong>, and Guy Katz<br />
+<em>Currently Under Review, 2025</em>  <br />
+</p>
+
 
 
 <p><strong>Shield Synthesis Modulo Theories: Neurosymbolic Guardrails For Realistic Autonomous Agents</strong><br />
