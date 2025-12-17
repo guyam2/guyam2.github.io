@@ -29,7 +29,7 @@ Daniel Wiedenmann*, <strong>Guy Amir*</strong>, and Guy Katz<br />
 <p><strong>On Improving Deep Active Learning with Formal Verification</strong><br />
 Jonathan Spiegelman, <strong>Guy Amir</strong>, and Guy Katz<br />
 <em>Currently Under Review, 2025</em>  <br />
-<a href="https://arxiv.org/abs/2512.14170" target="_blank">[paper]</a> </p>
+<a href="https://arxiv.org/abs/2512.14170" target="_blank">[paper]</a>
 </p>
 
 
