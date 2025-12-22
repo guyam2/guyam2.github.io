@@ -6,15 +6,12 @@ title: Publications
 <h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
 
-<p><strong>When One Message Tells the Whole Story: Deciding Serializability in Network Systems</strong><br />
-<strong>Guy Amir</strong>, Mark Barbone, Nicolas Amat, and Jules Jacobs<br />
-<em>Currently Under Review, 2025</em>  <br />
-</p>		
 
 
-<p><strong>On Session Types in Networks</strong><br />
+
+<p><strong>Session Types for Network Safety</strong><br />
 Jens Kanstrup, Alceste Scalas, <strong>Guy Amir</strong>, Jules Jacobs, Jana Wagemaker, and Nate Foster<br />
-<em>Currently Under Review, 2025</em>  <br />
+<em>Currently Under Review, 2026</em>  <br />
 </p>		
 
 
@@ -22,25 +19,35 @@ Jens Kanstrup, Alceste Scalas, <strong>Guy Amir</strong>, Jules Jacobs, Jana Wag
 
 <p><strong>Formally Verifying Stock Classifiers</strong><br />
 Daniel Wiedenmann*, <strong>Guy Amir*</strong>, and Guy Katz<br />
-<em>Currently Under Review, 2025</em>  <br />
+<em>Currently Under Review, 2026</em>  <br />
 </p>
 
 
 <p><strong>On Improving Deep Active Learning with Formal Verification</strong><br />
 Jonathan Spiegelman, <strong>Guy Amir</strong>, and Guy Katz<br />
-<em>Currently Under Review, 2025</em>  <br />
+<em>Currently Under Review, 2026</em>  <br />
 <a href="https://arxiv.org/abs/2512.14170" target="_blank">[paper]</a> <a href="http://github.com/josp1234/FormalVerificationDAL" target="_blank">[code]</a></p>		
 
 
 
 <p><strong>Shield Synthesis Modulo Theories: Neurosymbolic Guardrails For Realistic Autonomous Agents</strong><br />
 Andoni Rodriguez, Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Cesar Sanchez<br />
-<em>Currently Under Review, 2025</em>  <br />
+<em>Currently Under Review, 2026</em>  <br />
 </p>
 
 
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
+
+
+
+<p><strong>When One Message Tells the Whole Story: Deciding Serializability in Network Systems</strong><br />
+<strong>Guy Amir</strong>, Mark Barbone, Nicolas Amat, and Jules Jacobs<br />
+<em>Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2026</em>  <br />
+<a href="" target="_blank">[paper]</a> <a href="https://zenodo.org/records/17253581" target="_blank">[code]</a></p>		
+
+	
+
 
 <p><strong>What makes an Ensemble (Un) Interpretable?</strong><br />
 Shahaf Bassan, <strong>Guy Amir</strong>, Meirav Zehavi, and Guy Katz<br />
