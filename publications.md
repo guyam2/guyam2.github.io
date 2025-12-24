@@ -41,7 +41,7 @@ Andoni Rodriguez, Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Cesar S
 
 
 
-<p><strong>When One Message Tells the Whole Story: Deciding Serializability in Network Systems</strong><br />
+<p><strong>Deciding Serializability in Network Systems</strong><br />
 <strong>Guy Amir</strong>, Mark Barbone, Nicolas Amat, and Jules Jacobs<br />
 <em>Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2026</em>  <br />
 <a href="" target="_blank">[paper]</a> <a href="https://zenodo.org/records/17253581" target="_blank">[code]</a></p>		
