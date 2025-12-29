@@ -237,6 +237,10 @@ Yehonathan Refael, Gilad Kirshenboim, <strong>Guy Amir</strong>, Doug Burger (Mi
 
 
 
+<p><strong>Recipes for Fault Tolerant Communication Collectives</strong><br />
+<strong>Guy Amir</strong>, Eric Ding, Rachee Singh, Fred B. Schneider, and Nate Foster<br />
+<em>Provisional Patent Pending, 2026</em>  <br />
+</p>	
 
 
 
