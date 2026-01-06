@@ -44,7 +44,7 @@ Andoni Rodriguez, Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Cesar S
 <p><strong>Deciding Serializability in Network Systems</strong><br />
 <strong>Guy Amir</strong>, Mark Barbone, Nicolas Amat, and Jules Jacobs<br />
 <em>Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2026</em>  <br />
-<a href="" target="_blank">[paper]</a> <a href="https://zenodo.org/records/17253581" target="_blank">[code]</a></p>		
+<a href="https://arxiv.org/abs/2601.02251" target="_blank">[paper]</a> <a href="https://zenodo.org/records/17253581" target="_blank">[code]</a></p>		
 
 	
 
