@@ -11,6 +11,8 @@ title: Publications
 </p>
 
 
+
+
 <p><strong>Formally Verifying Stock Classifiers</strong><br />
 Daniel Wiedenmann*, <strong>Guy Amir*</strong>, and Guy Katz<br />
 <em>Currently Under Review, 2026</em>  <br />
