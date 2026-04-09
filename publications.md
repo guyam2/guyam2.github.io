@@ -6,7 +6,7 @@ title: Publications
 <h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
 <p><strong>What's your Recipe? Formal Guarantees for Fault Tolerance</strong><br />
-Guy Amir</strong>, Eric Ding, Rachee Singh, Fred B. Schneider, and Nate Foster<br />
+<strong>Guy Amir</strong>, Eric Ding, Rachee Singh, Fred B. Schneider, and Nate Foster<br />
 <em>Under Preperation, 2026</em>  <br />
 </p>
 
