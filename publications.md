@@ -5,16 +5,10 @@ title: Publications
 
 <h1 style="color:#4646D1"> <b> Manuscripts </b> </h1>
 
-
-
-
-
-<p><strong>Session Types for Network Safety</strong><br />
-Jens Kanstrup, Alceste Scalas, <strong>Guy Amir</strong>, Jules Jacobs, Jana Wagemaker, and Nate Foster<br />
-<em>Currently Under Review, 2026</em>  <br />
-</p>		
-
-
+<p><strong>What's your Recipe? Formal Guarantees for Fault Tolerance</strong><br />
+Guy Amir</strong>, Eric Ding, Rachee Singh, Fred B. Schneider, and Nate Foster<br />
+<em>Under Preperation, 2026</em>  <br />
+</p>
 
 
 <p><strong>Formally Verifying Stock Classifiers</strong><br />
@@ -40,6 +34,12 @@ Andoni Rodriguez, Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Cesar S
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
 
+
+
+<p><strong>NEST: Network Enforced Session Types</strong><br />
+Jens Kanstrup, Alceste Scalas, <strong>Guy Amir</strong>, Jules Jacobs, Jana Wagemaker, and Nate Foster<br />
+<em>European Conference on Programming (ECOOP), 2026</em>  <br />
+</p>		
 
 <p><strong>Deciding Serializability in Network Systems</strong><br />
 <strong>Guy Amir</strong>, Mark Barbone, Nicolas Amat, and Jules Jacobs<br />
