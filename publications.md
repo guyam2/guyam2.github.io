@@ -234,14 +234,15 @@ Adam Hakim, <strong>Guy Amir</strong>, Aviv Slobodkin (Microsoft R&D)<br />
 
 <p><strong>Analog Multiply-and-Accumulate Circuit Aware Training</strong><br />
 Yehonathan Refael, Gilad Kirshenboim, <strong>Guy Amir</strong>, Doug Burger (Microsoft R&D)<br />
-<em>Provisional Patent Pending, 2022</em>  <br />
+<em> European Patent EP-450,0294-B1</em>  <br />
+<em>U.S. Provisional Patent Pending, 2022</em>  <br />
 <a href="https://patents.google.com/patent/US20230316065A1/en" target="_blank">[patent]</a> </p>
 
 
 
 <p><strong>Recipes for Fault Tolerant Communication Collectives</strong><br />
 <strong>Guy Amir</strong>, Eric Ding, Rachee Singh, Fred B. Schneider, and Nate Foster<br />
-<em>Provisional Patent Pending, 2026</em>  <br />
+<em>U.S. Provisional Patent Pending, 2026</em>  <br />
 </p>	
 
 
