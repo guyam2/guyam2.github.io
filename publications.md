@@ -11,6 +11,21 @@ title: Publications
 </p>
 
 
+<p><strong>Verifying Unbounded Serializability in Network Systems</strong><br />
+<strong>Guy Amir</strong>, Mark Barbone, Nicolas Amat, and Jules Jacobs<br />
+<em>Currently Under Review, 2026</em>  <br />
+</p>	
+
+<p><strong>Formally Securing Agentic Computing</strong><br />
+Nils Palumbo, Sarthak Choudhary, Jihye Choi, <strong>Guy Amir</strong>, Prasad Chalasani, Mihai Christodorescu, and Somesh Jha<br />
+<em>Currently Under Review, 2026</em>  <br />
+</p>
+
+
+<p><strong>Systems Security Foundations for Agentic Computing</strong><br />
+Mihai Christodorescu, Earlence Fernandes, Ashish Hooda, Somesh Jha, Johann Rehberger, Kamalika Chaudhuri, Xiaohan Fu, Khawaja Shams, <strong>Guy Amir</strong>, Jihye Choi, Sarthak Choudhary, Nils Palumbo, Andrey Labunets, and Nishit V. Pandya<br />
+<em>Currently Under Review, 2026</em>  <br />
+<a href="https://arxiv.org/abs/2512.01295" target="_blank">[paper]</a> </p>
 
 
 <p><strong>Formally Verifying Stock Classifiers</strong><br />
