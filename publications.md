@@ -55,7 +55,7 @@ Andoni Rodriguez, Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Cesar S
 
 <p><strong>NEST: Network Enforced Session Types</strong><br />
 Jens Kanstrup, Alceste Scalas, <strong>Guy Amir</strong>, Jules Jacobs, Jana Wagemaker, and Nate Foster<br />
-<em>European Conference on Programming (ECOOP), 2026</em>  <br />
+<em>European Conference on Object-Oriented Programming (ECOOP), 2026</em>  <br />
 <a href="https://arxiv.org/abs/2604.21795" target="_blank">[paper]</a> <a href="https://zenodo.org/records/19661497" target="_blank">[code]</a></p>		
 
 
