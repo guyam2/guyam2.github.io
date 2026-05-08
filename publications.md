@@ -16,7 +16,7 @@ title: Publications
 <em>Currently Under Review, 2026</em>  <br />
 </p>	
 
-<p><strong>Policy Compiler for Secure Agentic Systems</strong><br />
+<p><strong>Formal Policy Enforcement for Real-World Agentic Systems</strong><br />
 Nils Palumbo, Sarthak Choudhary, Jihye Choi, <strong>Guy Amir</strong>, Prasad Chalasani, and Somesh Jha<br />
 <em>Currently Under Review, 2026</em>  <br />
 <a href="https://arxiv.org/abs/2602.16708" target="_blank">[paper]</a> </p>
