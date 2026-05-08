@@ -42,12 +42,6 @@ Jonathan Spiegelman, <strong>Guy Amir</strong>, and Guy Katz<br />
 
 
 
-<p><strong>Shield Synthesis Modulo Theories: Neurosymbolic Guardrails For Realistic Autonomous Agents</strong><br />
-Andoni Rodriguez, Davide Corsi, <strong>Guy Amir</strong>, Guy Katz, and Cesar Sanchez<br />
-<em>Currently Under Review, 2026</em>  <br />
-</p>
-
-
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
