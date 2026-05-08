@@ -243,13 +243,16 @@ Raz Yerushalmi, <strong>Guy Amir</strong>, Achiya Elyasaf, David Harel, Guy Katz
 
 <p><strong>Diffusion-Based Handedness Classification for Touch-Based Input</strong><br />
 Adam Hakim, <strong>Guy Amir</strong>, Aviv Slobodkin (Microsoft R&D)<br />
+<em> European Provisional Patent Pending, 2022</em>  <br />
 <em>U.S. Patent 11,947,758-B2</em>  <br />
-<a href="https://patentimages.storage.googleapis.com/fc/fd/41/9848e04d2a3d49/US11947758.pdf" target="_blank">[US patent]</a> </p>
+<a href="https://patentimages.storage.googleapis.com/fc/fd/41/9848e04d2a3d49/US11947758.pdf" target="_blank">[US patent]</a> 
+<a href="https://patents.google.com/patent/EP4463759A1/en" target="_blank">[EU patent]</a> 
+</p>
 
 
 <p><strong>Analog Multiply-and-Accumulate Circuit Aware Training</strong><br />
 Yehonathan Refael, Gilad Kirshenboim, <strong>Guy Amir</strong>, Doug Burger (Microsoft R&D)<br />
-<em> European Patent EP-450,0294-B1</em>  <br />
+<em> European Patent EP-4,500,294-B1</em>  <br />
 <em>U.S. Provisional Patent Pending, 2022</em>  <br />
 <a href="https://patents.google.com/patent/US20230316065A1/en" target="_blank">[US patent]</a> 
 <a href="https://patents.google.com/patent/EP4500294B1/en" target="_blank">[EU patent]</a> 
@@ -258,7 +261,7 @@ Yehonathan Refael, Gilad Kirshenboim, <strong>Guy Amir</strong>, Doug Burger (Mi
 
 
 <p><strong>Recipes for Fault Tolerant Communication Collectives</strong><br />
-<strong>Guy Amir</strong>, Eric Ding, Rachee Singh, Fred B. Schneider, and Nate Foster<br />
+<strong>Guy Amir</strong>, Eric Ding, Rachee Singh, Fred B. Schneider, and Nate Foster (Cornell University)<br />
 <em>U.S. Provisional Patent Pending, 2026</em>  <br />
 </p>	
 
