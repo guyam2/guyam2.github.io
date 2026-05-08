@@ -16,10 +16,11 @@ title: Publications
 <em>Currently Under Review, 2026</em>  <br />
 </p>	
 
-<p><strong>Formally Securing Agentic Computing</strong><br />
-Nils Palumbo, Sarthak Choudhary, Jihye Choi, <strong>Guy Amir</strong>, Prasad Chalasani, Mihai Christodorescu, and Somesh Jha<br />
+<p><strong>Policy Compiler for Secure Agentic Systems</strong><br />
+Nils Palumbo, Sarthak Choudhary, Jihye Choi, <strong>Guy Amir</strong>, Prasad Chalasani, and Somesh Jha<br />
 <em>Currently Under Review, 2026</em>  <br />
-</p>
+<a href="https://arxiv.org/abs/2602.16708" target="_blank">[paper]</a> </p>
+
 
 
 <p><strong>Systems Security Foundations for Agentic Computing</strong><br />
