@@ -63,7 +63,15 @@ Jens Kanstrup, Alceste Scalas, <strong>Guy Amir</strong>, Jules Jacobs, Jana Wag
 <em>Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2026</em>  <br />
 <a href="https://arxiv.org/abs/2601.02251" target="_blank">[paper]</a> <a href="https://zenodo.org/records/17253581" target="_blank">[code]</a></p>		
 
-	
+
+
+<p><strong>veriFIRE: An Industrial Case Study in Verifying Consistency Properties for a DNN-Based Wildfire Detection System</strong><br />
+Idan Refaeli, Maya Swisa, Itay Buchnik, Alon Zada, <strong>Guy Amir</strong>, Elad Mandelbaum, Ziv Freund, and Guy Katz<br />
+<em>Symposium on AI Verification (SAIV), 2026</em>  <br />
+<a href="https://arxiv.org/abs/2606.04121" target="_blank">[paper]</a> </p>
+
+
+
 
 
 <p><strong>What makes an Ensemble (Un) Interpretable?</strong><br />
