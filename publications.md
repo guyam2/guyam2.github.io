@@ -23,12 +23,6 @@ Nils Palumbo, Sarthak Choudhary, Jihye Choi, <strong>Guy Amir</strong>, Prasad C
 
 
 
-<p><strong>Systems Security Foundations for Agentic Computing</strong><br />
-Mihai Christodorescu, Earlence Fernandes, Ashish Hooda, Somesh Jha, Johann Rehberger, Kamalika Chaudhuri, Xiaohan Fu, Khawaja Shams, <strong>Guy Amir</strong>, Jihye Choi, Sarthak Choudhary, Nils Palumbo, Andrey Labunets, and Nishit V. Pandya<br />
-<em>Currently Under Review, 2026</em>  <br />
-<a href="https://arxiv.org/abs/2512.01295" target="_blank">[paper]</a> </p>
-
-
 <p><strong>Formally Verifying Stock Classifiers</strong><br />
 Daniel Wiedenmann*, <strong>Guy Amir*</strong>, and Guy Katz<br />
 <em>Currently Under Review, 2026</em>  <br />
@@ -44,6 +38,13 @@ Jonathan Spiegelman, <strong>Guy Amir</strong>, and Guy Katz<br />
 
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
+
+
+
+<p><strong>Systems Security Foundations for Agentic Computing</strong><br />
+Mihai Christodorescu, Earlence Fernandes, Ashish Hooda, Somesh Jha, Johann Rehberger, Kamalika Chaudhuri, Xiaohan Fu, Khawaja Shams, <strong>Guy Amir</strong>, Jihye Choi, Sarthak Choudhary, Nils Palumbo, Andrey Labunets, and Nishit V. Pandya<br />
+<em>Neural Information Processing Systems (NeurIPS), 2026</em>  <br />
+<a href="https://arxiv.org/abs/2512.01295" target="_blank">[paper]</a> </p>
 
 
 
