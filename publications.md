@@ -36,6 +36,13 @@ Jonathan Spiegelman, <strong>Guy Amir</strong>, and Guy Katz<br />
 
 
 
+<p><strong>Losses Outlast Gains in Northern Hemisphere Tree Growth under Climate Change
+</strong><br />
+Erez Feuer, Stefan Klesse, <strong>Guy Amir</strong>, Nadav Peleg, and Yair Mau<br />
+<em>Currently Under Review, 2026</em>  <br />
+<a href="https://www.biorxiv.org/content/10.64898/2026.09.06.749676v1" target="_blank">[paper]</a> </p>
+
+
 
 <h1 style="color:#4646D1"> <b> Publications </b> </h1>
 
